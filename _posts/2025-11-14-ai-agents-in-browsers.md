@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "AI Agents in Browsers"
+title: "AI Agents in Browsers: Promise, Practicality, and Precautions"
 date: 2025-11-14
 categories: ai software
 ---
-
-# AI Agents in Browsers: Promise, Practicality, and Precautions
 
 ## Introduction
 
