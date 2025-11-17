@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Shweta 👋
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Hi, I'm Shweta 👋
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm a Software Engineer with an interest in AI and modern software development. I enjoy understanding how intelligent systems are being integrated into everyday tools
 
+You can find my projects on GitHub:  
+👉 **[github.com/shwetak345](https://github.com/shwetak345)**
 
-[jekyll-organization]: https://github.com/jekyll
+And you can connect with me on LinkedIn:  
+👉 **[Shweta Bijay](https://www.linkedin.com/in/shweta-bijay-7475468/)**
+
+Thanks for visiting!

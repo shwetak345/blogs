@@ -3,7 +3,10 @@ layout: post
 title: "AI Agents in Browsers: Promise, Practicality, and Precautions"
 date: 2025-11-14
 categories: ai
+excerpt: "A practical breakdown of how AI agents are coming to browsers—and what it means for users."
 ---
+
+![AI as a Human Friend]({{ site.baseurl }}/assets/images/AI_Human_Connection.JPG)
 
 ## Introduction
 
