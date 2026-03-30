@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "My Blogs"
+title: "Shweta Bijay"
 email: shwetak345@yahoo.com
 
 # Multiline text using >- is totally fine here
 description: >-
-  Breaking down AI and software concepts into clear, practical insights.
+  Practical insights on AI systems, LLM pipelines, and building reliable applications.
 
 # Since this is a project site (repo: blogs)
 baseurl: "/blogs"
@@ -37,8 +37,8 @@ github_username: shwetak345
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
