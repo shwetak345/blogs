@@ -6,6 +6,8 @@ categories: ai
 excerpt: "How agentic coding tools, token budgets, and context debt are changing sprint planning and the TPM role."
 ---
 
+![TPM Agent Workflow]({{ site.baseurl }}/assets/images/tpm-agent-workflow.png)
+
 The year 2026 has brought a fundamental shift in how we build software. For years, TPMs measured progress using Story Points but recently Story Points are slowly losing their dominance. In a world where tools like Claude Code, GitHub Copilot (Agent Mode) can generate, test, and refactor thousands of lines of code in a single "loop," measuring human hours is no longer enough.
 
 We are entering a new era, an era of Token-Aware Sprint Planning.
